@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://app.daily.dev/minhdeeptry"><img src="https://api.daily.dev/devcards/v2/M2FpbbageNd4YageFr6Ir.png?r=s9u" width="356" alt="Nguyen Ngoc Minh's Dev Card"/></a>
+<a href="https://app.daily.dev/minhdeeptry"><img src="./devcard.png" width="356" alt="Nguyen Ngoc Minh's Dev Card"/></a>
 <!--
 **Minh141120/Minh141120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
