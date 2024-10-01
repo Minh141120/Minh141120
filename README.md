@@ -1,6 +1,8 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=Minh141120&color=ff69b4)
 <a href="https://app.daily.dev/minhdeeptry"><img src="./devcard.png" width="356" alt="Nguyen Ngoc Minh's Dev Card"/></a>
+
+![](https://komarev.com/ghpvc/?username=Minh141120&color=ff69b4)
+
 <!--
 **Minh141120/Minh141120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
